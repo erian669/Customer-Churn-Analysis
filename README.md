@@ -42,10 +42,10 @@ The objective is to understand churn drivers and provide recommendations that he
 ## Visualizations
 
 ### Churn Distribution
-![Churn Distribution](images/churn-distribution.png)
+![Churn Distribution](churn-distribution.png)
 
 ### Feature Importance (Random Forest)
-![Feature Importance](images/feature-importance.png)
+![Feature Importance](feature-importance.png)
 
 ---
 
@@ -91,14 +91,12 @@ The notebook can be opened and executed directly in Google Colab:
 ## Repository Structure
 
 <pre>
-customer-churn-analysis/
+Customer-Churn-Analysis/
 │
-├── Telco_Customer_Churn.ipynb
 ├── README.md
-├── Telco-Churn-Customer-Synthetic.xlsx
-└── images/
-    ├── churn-distribution.png
-    └── feature-importance.png
+├── Telco-Customer-Churn-Synthetic.csv
+├── churn-distribution.png
+└── feature-importance.png
 </pre>
 
 
